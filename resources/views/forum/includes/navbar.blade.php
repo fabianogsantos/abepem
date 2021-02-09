@@ -14,9 +14,10 @@
                     Edições
                 </a>
                 <div class="dropdown-menu" aria-labelledby="navbarDropdown">
-                    <a class="dropdown-item" href="#">1ª Edição</a>
-                    <a class="dropdown-item" href="#">2ª Edição</a>
-                    <a class="dropdown-item" href="#">3ª Edição</a>
+                    <a class="dropdown-item" href="{{route('forum.edicao1')}}">1ª Edição</a>
+                    <a class="dropdown-item" href="{{route('forum.edicao2')}}">1ª Edição</a>
+                    <a class="dropdown-item" href="{{route('forum.edicao3')}}">2ª Edição</a>
+                    <a class="dropdown-item" href="{{route('forum.edicao4')}}">3ª Edição</a>
                     <a class="dropdown-item" href="#">4ª Edição</a>
                     <a class="dropdown-item" href="#">5ª Edição</a>
                     <a class="dropdown-item" href="#">6ª Edição</a>

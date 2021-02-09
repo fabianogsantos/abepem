@@ -62,6 +62,11 @@ Route::get('forum',                 function(){ return view('forum.oevento');})-
 Route::get('forum/diretoria',       function(){ return view('forum.diretoria');})->name('forum.diretoria');
 Route::get('forum/cadastro',        function(){ return view('forum.cadastro');})->name('forum.cadastro');
 
+Route::get('forum/edicoes/edicao1',function(){ return view('forum.edicoes.edicao1'); })->name('forum.edicao1');
+Route::get('forum/edicoes/edicao2',function(){ return view('forum.edicoes.edicao2'); })->name('forum.edicao2');
+Route::get('forum/edicoes/edicao3',function(){ return view('forum.edicoes.edicao3'); })->name('forum.edicao3');
+Route::get('forum/edicoes/edicao4',function(){ return view('forum.edicoes.edicao4'); })->name('forum.edicao4');
+
 Route::get('abepem',                function(){ return view('abepem.quemsomos');})->name('abepem');
 Route::get('abepem/estatuto',       function(){ return view('abepem.estatuto');})->name('abepem.estatuto');
 Route::get('abepem/diretoria',      function(){ return view('abepem.diretoria');})->name('abepem.diretoria');
