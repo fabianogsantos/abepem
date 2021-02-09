@@ -27,8 +27,8 @@
                     <a class="dropdown-item" href="{{route('coloquio.2015')}}">11ª Edição</a>
                     <a class="dropdown-item" href="{{route('coloquio.2016')}}">12ª Edição</a>
                     <a class="dropdown-item" href="{{route('coloquio.2017')}}">13ª Edição</a>
-                    {{-- <a class="dropdown-item" href="{{route('coloquio.2018')}}">14ª Edição</a>
-                    <a class="dropdown-item" href="{{route('coloquio.2019')}}">15ª Edição</a>
+                    <a class="dropdown-item" href="{{route('coloquio.2018')}}">14ª Edição</a>
+                    {{--<a class="dropdown-item" href="{{route('coloquio.2019')}}">15ª Edição</a>
                     <a class="dropdown-item" href="{{route('coloquio.2020')}}">16ª Edição</a> --}}
                 </div>
             </li>
