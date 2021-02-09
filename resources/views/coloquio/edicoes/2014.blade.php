@@ -2,7 +2,7 @@
 
 @section('conteudo')
 <h1>2014 - 10º Colóquio de Moda
-<br><small>7º edição Internacional</small></h1>
+<br><small>7ª edição Internacional</small></h1>
 <h2>Caxias do Sul (RS)</h2>
 <p>Apoio –</p>
 

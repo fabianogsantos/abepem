@@ -1,7 +1,7 @@
 @extends('coloquio.home')
 
 @section('conteudo')
-<h1>2015 - 8º edição Internacional</h1>
+<h1>2015 - 8ª edição Internacional</h1>
 <h2>Curitiba (PR)</h2>
 <h3>02 a 05 de setembro de 2015</h3>
 

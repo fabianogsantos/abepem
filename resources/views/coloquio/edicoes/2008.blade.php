@@ -2,7 +2,7 @@
 
 @section('conteudo')
 <h1>2008 – 4º Colóquio de Moda
-<br>1ª edição internacional</h1>
+<br><small>1ª edição internacional</small></h1>
 <h2>Novo Hamburgo/RS</h2>
 <h3>29 de setembro a 02 de outubro de 2008</h3>
 

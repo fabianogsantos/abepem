@@ -1,7 +1,7 @@
 @extends('coloquio.home')
 
 @section('conteudo')
-<h1>2017 – 10 edição internacional</h1>
+<h1>2017 – 10ª Edição internacional</h1>
 <h2>FAAC/UNESP – Bauru (SP)</h2>
 <h3>11 a 15 de outubro</h3>
 

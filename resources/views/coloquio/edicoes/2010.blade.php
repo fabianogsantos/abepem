@@ -2,7 +2,7 @@
 
 @section('conteudo')
 <h1>2010 – 6º Colóquio de Moda
-<br>3ª edição internacional</h1>
+<br><small>3ª edição internacional</small></h1>
 <h2>São Paulo – SP</h2>
 <h3>12 a 15 de setembro de 2010</h3>
 

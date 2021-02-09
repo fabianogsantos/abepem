@@ -1,7 +1,7 @@
 @extends('coloquio.home')
 
 @section('conteudo')
-<h1>2016 - 9º edição internacional</h1>
+<h1>2016 - 9ª edição internacional</h1>
 <h2>João Pessoa (PB)</h2>
 <h3>11 a 14 de setembro</h3>
 <br>

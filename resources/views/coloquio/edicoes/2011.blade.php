@@ -2,7 +2,7 @@
 
 @section('conteudo')
 <h1>2011 - 7º Colóquio de Moda
-<br>4ª edição internacional</h1>
+<br><small>4ª edição internacional</small></h1>
 <h2>Maringá/ Paraná</h2>
 <h3>11 a 14 de setembro de 2011</h3>
 
