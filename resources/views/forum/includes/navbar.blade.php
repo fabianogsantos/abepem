@@ -15,22 +15,21 @@
                 </a>
                 <div class="dropdown-menu" aria-labelledby="navbarDropdown">
                     <a class="dropdown-item" href="{{route('forum.edicao1')}}">1ª Edição</a>
-                    <a class="dropdown-item" href="{{route('forum.edicao2')}}">1ª Edição</a>
-                    <a class="dropdown-item" href="{{route('forum.edicao3')}}">2ª Edição</a>
-                    <a class="dropdown-item" href="{{route('forum.edicao4')}}">3ª Edição</a>
-                    <a class="dropdown-item" href="#">4ª Edição</a>
+                    <a class="dropdown-item" href="{{route('forum.edicao2')}}">2ª Edição</a>
+                    <a class="dropdown-item" href="{{route('forum.edicao3')}}">3ª Edição</a>
+                    <a class="dropdown-item" href="{{route('forum.edicao4')}}">4ª Edição</a>
                     <a class="dropdown-item" href="#">5ª Edição</a>
                     <a class="dropdown-item" href="#">6ª Edição</a>
                     <a class="dropdown-item" href="#">7ª Edição</a>
                     <a class="dropdown-item" href="#">8ª Edição</a>
                     <a class="dropdown-item" href="#">9ª Edição</a>
-                    <a class="dropdown-item" href="#">10ª Edição</a>
+                    {{-- <a class="dropdown-item" href="#">10ª Edição</a>
                     <a class="dropdown-item" href="#">11ª Edição</a>
                     <a class="dropdown-item" href="#">12ª Edição</a>
                     <a class="dropdown-item" href="#">13ª Edição</a>
                     <a class="dropdown-item" href="#">14ª Edição</a>
                     <a class="dropdown-item" href="#">15ª Edição</a>
-                    <a class="dropdown-item" href="#">16ª Edição</a>
+                    <a class="dropdown-item" href="#">16ª Edição</a> --}}
                 </div>
             </li>
             <li class="nav-item">
