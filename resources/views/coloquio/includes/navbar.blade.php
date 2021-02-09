@@ -14,22 +14,22 @@
                     Edições
                 </a>
                 <div class="dropdown-menu" aria-labelledby="navbarDropdown">
-                    <a class="dropdown-item" href="">1ª Edição</a>
-                    <a class="dropdown-item" href="#">2ª Edição</a>
-                    <a class="dropdown-item" href="#">3ª Edição</a>
-                    <a class="dropdown-item" href="#">4ª Edição</a>
-                    <a class="dropdown-item" href="#">5ª Edição</a>
-                    <a class="dropdown-item" href="#">6ª Edição</a>
-                    <a class="dropdown-item" href="#">7ª Edição</a>
-                    <a class="dropdown-item" href="#">8ª Edição</a>
-                    <a class="dropdown-item" href="#">9ª Edição</a>
-                    <a class="dropdown-item" href="#">10ª Edição</a>
-                    <a class="dropdown-item" href="#">11ª Edição</a>
-                    <a class="dropdown-item" href="#">12ª Edição</a>
-                    <a class="dropdown-item" href="#">13ª Edição</a>
-                    <a class="dropdown-item" href="#">14ª Edição</a>
-                    <a class="dropdown-item" href="#">15ª Edição</a>
-                    <a class="dropdown-item" href="#">16ª Edição</a>
+                    <a class="dropdown-item" href="{{route('coloquio.2005')}}">1ª Edição</a>
+                    <a class="dropdown-item" href="{{route('coloquio.2006')}}">2ª Edição</a>
+                    <a class="dropdown-item" href="{{route('coloquio.2007')}}">3ª Edição</a>
+                    <a class="dropdown-item" href="{{route('coloquio.2008')}}">4ª Edição</a>
+                    <a class="dropdown-item" href="{{route('coloquio.2009')}}">5ª Edição</a>
+                    <a class="dropdown-item" href="{{route('coloquio.2010')}}">6ª Edição</a>
+                    <a class="dropdown-item" href="{{route('coloquio.2011')}}">7ª Edição</a>
+                    <a class="dropdown-item" href="{{route('coloquio.2012')}}">8ª Edição</a>
+                    <a class="dropdown-item" href="{{route('coloquio.2013')}}">9ª Edição</a>
+                    <a class="dropdown-item" href="{{route('coloquio.2014')}}">10ª Edição</a>
+                    <a class="dropdown-item" href="{{route('coloquio.2015')}}">11ª Edição</a>
+                    <a class="dropdown-item" href="{{route('coloquio.2016')}}">12ª Edição</a>
+                    <a class="dropdown-item" href="{{route('coloquio.2017')}}">13ª Edição</a>
+                    {{-- <a class="dropdown-item" href="{{route('coloquio.2018')}}">14ª Edição</a>
+                    <a class="dropdown-item" href="{{route('coloquio.2019')}}">15ª Edição</a>
+                    <a class="dropdown-item" href="{{route('coloquio.2020')}}">16ª Edição</a> --}}
                 </div>
             </li>
             <li class="nav-item">

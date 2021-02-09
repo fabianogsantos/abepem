@@ -35,6 +35,23 @@ Route::get('coloquio/comite',       function(){ return view('coloquio.comitecien
 Route::get('coloquio/grupos',       function(){ return view('coloquio.grupos');})->name('coloquio.grupos');
 Route::get('coloquio/anais',        function(){ return view('coloquio.anais');})->name('coloquio.anais');
 
+Route::get('coloquio/edicoes/2005',function(){ return view('coloquio.edicoes.2005'); })->name('coloquio.2005');
+Route::get('coloquio/edicoes/2006',function(){ return view('coloquio.edicoes.2006'); })->name('coloquio.2006');
+Route::get('coloquio/edicoes/2007',function(){ return view('coloquio.edicoes.2007'); })->name('coloquio.2007');
+Route::get('coloquio/edicoes/2008',function(){ return view('coloquio.edicoes.2008'); })->name('coloquio.2008');
+Route::get('coloquio/edicoes/2009',function(){ return view('coloquio.edicoes.2009'); })->name('coloquio.2009');
+Route::get('coloquio/edicoes/2010',function(){ return view('coloquio.edicoes.2010'); })->name('coloquio.2010');
+Route::get('coloquio/edicoes/2011',function(){ return view('coloquio.edicoes.2011'); })->name('coloquio.2011');
+Route::get('coloquio/edicoes/2012',function(){ return view('coloquio.edicoes.2012'); })->name('coloquio.2012');
+Route::get('coloquio/edicoes/2013',function(){ return view('coloquio.edicoes.2013'); })->name('coloquio.2013');
+Route::get('coloquio/edicoes/2014',function(){ return view('coloquio.edicoes.2014'); })->name('coloquio.2014');
+Route::get('coloquio/edicoes/2015',function(){ return view('coloquio.edicoes.2015'); })->name('coloquio.2015');
+Route::get('coloquio/edicoes/2016',function(){ return view('coloquio.edicoes.2016'); })->name('coloquio.2016');
+Route::get('coloquio/edicoes/2017',function(){ return view('coloquio.edicoes.2017'); })->name('coloquio.2017');
+Route::get('coloquio/edicoes/2018',function(){ return view('coloquio.edicoes.2018'); })->name('coloquio.2018');
+Route::get('coloquio/edicoes/2019',function(){ return view('coloquio.edicoes.2019'); })->name('coloquio.2019');
+Route::get('coloquio/edicoes/2020',function(){ return view('coloquio.edicoes.2020'); })->name('coloquio.2020');
+
 Route::get('congresso',             function(){ return view('congresso.oevento');})->name('congresso');
 Route::get('congresso/diretoria',   function(){ return view('congresso.diretoria');})->name('congresso.diretoria');
 Route::get('congresso/comite',      function(){ return view('congresso.comitecientifico');})->name('congresso.comitecientifico');
