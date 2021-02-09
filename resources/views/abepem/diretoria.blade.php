@@ -15,7 +15,5 @@
         </li>
         <li>Professora Doutora Juliana Bortholuzzi - UNISINOS/RS(<a href="http://lattes.cnpq.br/4343847822688401">Lattes</a>)
         </li>
-        <li>Professora Doutora Maria Claudia Bonadio (Editora da Revista doBras) - IA/UFJF (<a href="http://lattes.cnpq.br/3920027222039096">Lattes</a>)
-        </li>
     </ul>
 @endsection
